@@ -1,0 +1,14 @@
+D:\КСиС\Mastermind\Mastermind_Server\bin\Debug\Mastermind_Server.exe
+D:\КСиС\Mastermind\Mastermind_Server\bin\Debug\Mastermind_Server.pdb
+D:\КСиС\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.AssemblyReference.cache
+D:\КСиС\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.SuggestedBindingRedirects.cache
+D:\КСиС\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.CoreCompileInputs.cache
+D:\КСиС\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.exe
+D:\КСиС\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.pdb
+D:\KSiS\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.AssemblyReference.cache
+D:\KSiS\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.SuggestedBindingRedirects.cache
+D:\KSiS\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.csproj.CoreCompileInputs.cache
+D:\KSiS\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.exe
+D:\KSiS\Mastermind\Mastermind_Server\obj\Debug\Mastermind_Server.pdb
+D:\KSiS\Mastermind\Mastermind_Server\bin\Debug\Mastermind_Server.exe
+D:\KSiS\Mastermind\Mastermind_Server\bin\Debug\Mastermind_Server.pdb

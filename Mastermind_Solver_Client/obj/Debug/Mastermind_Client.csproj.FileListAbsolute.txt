@@ -1,0 +1,15 @@
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Client.exe.config
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Client.exe
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Client.pdb
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.csproj.AssemblyReference.cache
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.csproj.SuggestedBindingRedirects.cache
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.Properties.Resources.resources
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.csproj.GenerateResource.cache
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.csproj.CoreCompileInputs.cache
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.exe
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.pdb
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.ClientForm.resources
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Server.exe
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Server.pdb
+D:\КСиС\Mastermind\Mastermind_Client\bin\Debug\Mastermind_Server.exe.config
+D:\КСиС\Mastermind\Mastermind_Client\obj\Debug\Mastermind_Client.csproj.CopyComplete
